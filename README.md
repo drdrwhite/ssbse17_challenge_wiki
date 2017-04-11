@@ -13,20 +13,27 @@ Code overview: [wiki.documentfoundation.org/Development/Code_Overview](https://w
 
 Building instructions: [wiki.documentfoundation.org/Development/How_to_build](https://wiki.documentfoundation.org/Development/How_to_build)
 
-Plugin to help developing and debugging LibreOffice from Eclipse.: [github.com/LibreOffice/loeclipse](https://github.com/LibreOffice/loeclipse)
+Plugin to help developing and debugging LibreOffice from Eclipse: [github.com/LibreOffice/loeclipse](https://github.com/LibreOffice/loeclipse)
+
+Static analysis with CLANG/LLVM: [wiki.documentfoundation.org/Development/Clang_Code_Analysis](https://wiki.documentfoundation.org/Development/Clang_Code_Analysis)
+
+### Testing 
+
+Regression testing guidelines: [wiki.documentfoundation.org/QA/Testing/Regression_Tests](https://wiki.documentfoundation.org/QA/Testing/Regression_Tests)
+
+C++ unit testing: [wiki.documentfoundation.org/Development/Unit_Tests](https://wiki.documentfoundation.org/Development/Unit_Tests)
+
+Python unit testing: [wiki.documentfoundation.org/Development/Python_Unit_Tests](https://wiki.documentfoundation.org/Development/Python_Unit_Tests)
+
+Code coverage report: [lcov.libreoffice.org](http://lcov.libreoffice.org/)
+
+Computing code coverage: [wiki.documentfoundation.org/Development/Lcov](https://wiki.documentfoundation.org/Development/Lcov)
 
 ### Trackers
 
 Gerrit code reviews: [gerrit.libreoffice.org](https://gerrit.libreoffice.org)
 
 Issues/Bugs tracker: [bugs.documentfoundation.org](https://bugs.documentfoundation.org/describecomponents.cgi?product=LibreOffice&format=guided)
-
-### Testing 
-
-Regression testing guidelines: [wiki.documentfoundation.org/QA/Testing/Regression_Tests](https://wiki.documentfoundation.org/QA/Testing/Regression_Tests)
-
-Unit testing guidelines: [wiki.documentfoundation.org/Development/Unit_Tests](https://wiki.documentfoundation.org/Development/Unit_Tests)
-
 
 ## SQLite
 
