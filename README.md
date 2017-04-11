@@ -39,9 +39,20 @@ Issues/Bugs tracker: [bugs.documentfoundation.org](https://bugs.documentfoundati
 
 SQLite uses [Fossil](https://www.fossil-scm.org/), a distributed version control system that was specifically designed to support SQLite development. 
 
+Project repo: [sqlite.org/src/tree](https://www.sqlite.org/src/tree)
+
 ### Code
 
-Project repo: [www.sqlite.org/src/tree](https://www.sqlite.org/src/tree)
+Source code: [sqlite.org/src/dir?name=src](https://www.sqlite.org/src/dir?name=src)
+
+SQLite architecture: [sqlite.org/arch.html](http://www.sqlite.org/arch.html)
+
+### Testing
+
+SQLite claims to be extensively tested, where the whole test suite has 745 times more code than the core SQLite system. Several testing strategies are employed on SQLite, including but not limited to: Out-of-memory tests, I/O error tests, Crash and power loss tests, mutation testing and Valgrind analysis. However, most of this test suite is claimed to be proprietary. 
+
+SQLite provides a basic test suite to be used at development time: [sqlite.org/src/dir?name=test](https://www.sqlite.org/src/dir?name=test)
+
 
 ## Guava
 
