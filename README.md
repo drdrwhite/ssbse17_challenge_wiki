@@ -59,7 +59,7 @@ SQLite provides a basic test suite to be used at development time: [sqlite.org/s
 
 For more details on SQLite tetsing in general, please refer to (sqlite.org/testing.html)[http://www.sqlite.org/testing.html]
 
-###Trackers
+### Trackers
 
 SQLite employs a strict and detailed bug reporting and feature request system, where all reports/requests are carefully reviewed by developers before they are added to the list. More details at [sqlite.org/src/wiki?name=Bug+Reports](https://www.sqlite.org/src/wiki?name=Bug+Reports).
 
