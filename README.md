@@ -9,6 +9,17 @@ Details and CfP of the challenge track can be found at [ssbse17.github.io/challe
 
 **Gerrit code reviews:** [gerrit.libreoffice.org](https://gerrit.libreoffice.org)
 
+**Issues/Bugs tracker+:** [bugs.documentfoundation.org](https://bugs.documentfoundation.org/describecomponents.cgi?product=LibreOffice&format=guided)
+
+**Building instructions:** [wiki.documentfoundation.org/Development/How_to_build](https://wiki.documentfoundation.org/Development/How_to_build)
+
+##### Testing 
+
+**Regression testing guidelines:** [wiki.documentfoundation.org/QA/Testing/Regression_Tests](https://wiki.documentfoundation.org/QA/Testing/Regression_Tests)
+
+**Unit testing guidelines:** [wiki.documentfoundation.org/Development/Unit_Tests](https://wiki.documentfoundation.org/Development/Unit_Tests)
+
+
 ### SQLite
 
 ### Guava
