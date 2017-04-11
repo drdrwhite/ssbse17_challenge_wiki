@@ -67,4 +67,22 @@ List of all bugs and feature requests: [sqlite.org/src/rptview?rn=1](http://www.
 
 ## Guava
 
+One may find below relevant links for the challenge track; however, please refer to Guava's full [wiki](https://github.com/google/guava/wiki) for more details.
+
+### Code
+
+Source code: [github.com/google/guava](https://github.com/google/guava)
+
+API JavaDoc: [google.github.io/guava/releases/21.0/api/docs/](http://google.github.io/guava/releases/21.0/api/docs/)
+
+### Testing
+
+Test suite: [guava-testlib](https://github.com/google/guava/tree/master/guava-testlib) and [guava-tests](https://github.com/google/guava/tree/master/guava-tests)
+
+### Trackers
+
+Issue tracking: [github.com/google/guava/issues](https://github.com/google/guava/issues)
+
+General discussion forum: [groups.google.com/forum/#!forum/guava-discuss](https://groups.google.com/forum/#!forum/guava-discuss)
+
 ## Flask
