@@ -47,12 +47,23 @@ Source code: [sqlite.org/src/dir?name=src](https://www.sqlite.org/src/dir?name=s
 
 SQLite architecture: [sqlite.org/arch.html](http://www.sqlite.org/arch.html)
 
+Building instructions: [sqlite.org/src/tree?ci=trunk](https://www.sqlite.org/src/tree?ci=trunk) under **Compile**
+
+Commits timeline: [sqlite.org/src/timeline](https://www.sqlite.org/src/timeline?y=ci)
+
 ### Testing
 
 SQLite claims to be extensively tested, where the whole test suite has 745 times more code than the core SQLite system. Several testing strategies are employed on SQLite, including but not limited to: Out-of-memory tests, I/O error tests, Crash and power loss tests, mutation testing and Valgrind analysis. However, most of this test suite is claimed to be proprietary. 
 
 SQLite provides a basic test suite to be used at development time: [sqlite.org/src/dir?name=test](https://www.sqlite.org/src/dir?name=test)
 
+For more details on SQLite tetsing in general, please refer to (sqlite.org/testing.html)[http://www.sqlite.org/testing.html]
+
+###Trackers
+
+SQLite employs a strict and detailed bug reporting and feature request system, where all reports/requests are carefully reviewed by developers before they are added to the list. More details at [sqlite.org/src/wiki?name=Bug+Reports](https://www.sqlite.org/src/wiki?name=Bug+Reports).
+
+List of all bugs and feature requests: [sqlite.org/src/rptview?rn=1](http://www.sqlite.org/src/rptview?rn=1)
 
 ## Guava
 
