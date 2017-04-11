@@ -71,7 +71,7 @@ One may find below relevant links for the challenge track; however, please refer
 
 ### Code
 
-Source code: [github.com/google/guava](https://github.com/google/guava)
+Source code repo: [github.com/google/guava](https://github.com/google/guava)
 
 API JavaDoc: [google.github.io/guava/releases/21.0/api/docs/](http://google.github.io/guava/releases/21.0/api/docs/)
 
@@ -86,3 +86,19 @@ Issue tracking: [github.com/google/guava/issues](https://github.com/google/guava
 General discussion forum: [groups.google.com/forum/#!forum/guava-discuss](https://groups.google.com/forum/#!forum/guava-discuss)
 
 ## Flask
+
+For the full documentation of Flask please refer to [flask.pocoo.org/docs/0.12/](http://flask.pocoo.org/docs/0.12/)
+
+### Code
+
+Source code repo: [github.com/pallets/flask](https://github.com/pallets/flask)
+
+### Testing
+
+Test suite: [github.com/pallets/flask/tree/master/tests](https://github.com/pallets/flask/tree/master/tests)
+
+Flask provide guidelines to [run the test suite](https://github.com/pallets/flask/blob/master/CONTRIBUTING.rst#running-the-testsuite) and [compute test coverage](https://github.com/pallets/flask/blob/master/CONTRIBUTING.rst#running-test-coverage)
+
+### Trackers
+
+Issue tracking: [github.com/pallets/flask/issues](https://github.com/pallets/flask/issues)
