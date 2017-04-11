@@ -15,7 +15,7 @@ Building instructions: [wiki.documentfoundation.org/Development/How_to_build](ht
 
 Plugin to help developing and debugging LibreOffice from Eclipse: [github.com/LibreOffice/loeclipse](https://github.com/LibreOffice/loeclipse)
 
-Static analysis with CLANG/LLVM: [wiki.documentfoundation.org/Development/Clang_Code_Analysis](https://wiki.documentfoundation.org/Development/Clang_Code_Analysis)
+Static analysis with CLANG and LLVM: [wiki.documentfoundation.org/Development/Clang_Code_Analysis](https://wiki.documentfoundation.org/Development/Clang_Code_Analysis)
 
 ### Testing 
 
@@ -36,6 +36,12 @@ Gerrit code reviews: [gerrit.libreoffice.org](https://gerrit.libreoffice.org)
 Issues/Bugs tracker: [bugs.documentfoundation.org](https://bugs.documentfoundation.org/describecomponents.cgi?product=LibreOffice&format=guided)
 
 ## SQLite
+
+SQLite uses [Fossil](https://www.fossil-scm.org/), a distributed version control system that was specifically designed to support SQLite development. 
+
+### Code
+
+Project repo: [www.sqlite.org/src/tree](https://www.sqlite.org/src/tree)
 
 ## Guava
 
