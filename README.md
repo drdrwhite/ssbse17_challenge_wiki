@@ -97,7 +97,7 @@ Source code repo: [github.com/pallets/flask](https://github.com/pallets/flask)
 
 Test suite: [github.com/pallets/flask/tree/master/tests](https://github.com/pallets/flask/tree/master/tests)
 
-Flask provide guidelines to [run the test suite](https://github.com/pallets/flask/blob/master/CONTRIBUTING.rst#running-the-testsuite) and [compute test coverage](https://github.com/pallets/flask/blob/master/CONTRIBUTING.rst#running-test-coverage)
+Flask provides guidelines to [run the test suite](https://github.com/pallets/flask/blob/master/CONTRIBUTING.rst#running-the-testsuite) and [compute test coverage](https://github.com/pallets/flask/blob/master/CONTRIBUTING.rst#running-test-coverage)
 
 ### Trackers
 
